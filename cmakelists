@@ -19,3 +19,5 @@ cuda_add_executable(fluid_sim src/main.cu)
 
 # Installation rules
 install(TARGETS fluid_sim DESTINATION bin)
+
+#
